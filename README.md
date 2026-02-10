@@ -1,2 +1,2 @@
 # elo
-elo math physics RPN repl
+elo is a math physics repl using RPN — HP
